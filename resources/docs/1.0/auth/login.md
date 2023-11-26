@@ -1,0 +1,1 @@
+<larecipe-swagger endpoint="/api/login" default-method='post'></larecipe-swagger>
